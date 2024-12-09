@@ -1,4 +1,4 @@
-<h1>Gestão do stock</h1>
+<h1>Gestão do Stock</h1>
 
 <h3>Introdução</h3>
 
